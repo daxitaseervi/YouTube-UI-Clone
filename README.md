@@ -1,8 +1,5 @@
 ﻿# YouTube-UI-Clone
-A static front-end clone of the YouTube homepage built using HTML and CSS. This project focuses on practicing layout design, positioning, and UI structuring. This project was built as part of a YouTube course by Supersimpledev to improve HTML and CSS fundamentals.
-
-Overview:
-The interface replicates key parts of YouTube, including the header, sidebar navigation, and video grid. It is a purely front-end project with no JavaScript functionality.
+A static front-end clone of the YouTube homepage built using HTML and CSS. This project focuses on practicing layout design, positioning, and UI structuring. The interface replicates key parts of YouTube, including the header, sidebar navigation, and video grid. It is a purely front-end project with no JavaScript functionality. This project was built as part of a YouTube course by Supersimpledev to improve HTML and CSS fundamentals.
 
 Features:
 - Header with search bar and icons
