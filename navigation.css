@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+}
+
+nav {
+  background-color: rgb(255, 255,255);
+  position: fixed;
+  top: 60px;
+  left: 0;
+  bottom: 0;
+  width: 80px;
+}
+
+.nav-container {
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.nav-components {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  height: 72px;
+  width: 100%;
+}
+
+.nav-components:hover {
+  background-color: rgb(238, 238, 238);
+}
+
+.nav-icon {
+  width: 24px;
+}
+
+.nav-label {
+  font-size: 10px;
+}
